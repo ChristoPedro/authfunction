@@ -1,6 +1,6 @@
 module func
 
-go 1.21
+go 1.22
 
 require github.com/fnproject/fdk-go v0.0.45
 
