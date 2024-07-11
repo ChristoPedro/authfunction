@@ -8,5 +8,5 @@ Bouth codes do the same thing, they receive a body like the example bellow. Comp
 {"type": "token", "token":"Samples_Token"}
 ```
 
-- Python: A python sample that uses the default docker image from fn project.
-- Go: A Go Samples that uses a custom docker image.
+- [Python](/authpy/): A python sample that uses the default docker image from fn project.
+- [Go](/authfn/): A Go Samples that uses a custom docker image.
