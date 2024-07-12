@@ -11,6 +11,8 @@ Bouth codes do the same thing, they receive a body like the example bellow. Comp
 - [Python](/authpy/): A python sample that uses the default docker image from fn project.
 - [Go](/authfn/): A Go Samples that uses a custom docker image.
 
+> **obs:** The Golang Function use a [Custom Dockerfile](https://docs.oracle.com/en-us/iaas/Content/Functions/Tasks/functionsusingcustomdockerfiles.htm) it allows to use diffent SO and lang versions to build your functions.
+
 # How to use
 
 ## Create an OCI Function Application
